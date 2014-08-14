@@ -3,11 +3,12 @@
 
 int main(void)
 {
-		printf("Hello, World!\n");
-		printf("Hello, Jenkins!\n");
-		printf("Hello, cris!\n");
-		printf("Hello, invoke post build task.\n");
-		printf("\n");
-		
-		return 0;
+	printf("\n");
+	printf("Hello, World!\n");
+	printf("Hello, Jenkins!\n");
+	printf("Hello, cris!\n");
+	printf("Hello, invoke post build task.\n");
+	printf("\n");
+	
+	return 0;
 }
