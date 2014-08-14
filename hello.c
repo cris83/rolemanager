@@ -7,6 +7,7 @@ int main(void)
 		printf("Hello, Jenkins!\n");
 		printf("Hello, cris!\n");
 		printf("Hello, invoke post build task.\n");
+		printf("\n");
 		
 		return 0;
 }
